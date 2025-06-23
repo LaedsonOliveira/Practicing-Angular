@@ -1,0 +1,13 @@
+html{
+  align-items: center;
+}
+
+.list-navbar{
+  display: flex;
+  justify-content: center;
+  gap: 3%;
+  padding: 1%;
+  border: solid 1px black;
+
+  margin: 0 10%;
+}

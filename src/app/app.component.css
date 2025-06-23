@@ -1,0 +1,19 @@
+.body{
+  border: solid 1px blue;
+  margin: 5% 10%;
+}
+
+.content-main{
+  display: flex;
+}
+
+app-sidebar{
+  width: 20%;
+}
+
+app-main-page{
+  width: 80%;
+}
+
+
+
